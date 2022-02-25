@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Most Excellent Maiestie King Charles the Second our Most Gracious Soveraign the humble address of the officers of the severall regiments of horse under the command of His Excellency the Lord General Monck, as it was presented by them to His Majestie at Dartford Heath in Kent this present Tuesday, May 29, 1660.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62707</idno>
+            <idno type="STC">Wing T1372A</idno>
+            <idno type="STC">ESTC R4735</idno>
+            <idno type="EEBO-CITATION">11957804</idno>
+            <idno type="OCLC">ocm 11957804</idno>
+            <idno type="VID">51562</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62707)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51562)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 518:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Most Excellent Maiestie King Charles the Second our Most Gracious Soveraign the humble address of the officers of the severall regiments of horse under the command of His Excellency the Lord General Monck, as it was presented by them to His Majestie at Dartford Heath in Kent this present Tuesday, May 29, 1660.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>[2], 5-8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Griffin for John Playford ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51562:1"/>
+            <p>To His Moſt Excellent Maieſtie KING CHARLES The Second, our Moſt Gracious SOVERAIGN.</p>
+            <p>The humble Addreſs of the Offi<g ref="char:EOLhyphen"/>cers of the ſeverall Regiments of Horſe under the Command of his Excellency the Lord General <hi>MONCK,</hi> as it was pre<g ref="char:EOLhyphen"/>ſented by them to His Majeſtie at <hi>Dartford</hi> Heath in <hi>Kent</hi> this preſent Tueſday, <hi>May</hi> 29. 1660.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>S. Griffin,</hi> for <hi>John Playford</hi> at his Shop in the Temple, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="royal_seal">
+            <pb facs="tcp:51562:2"/>
+            <p>
+               <figure>
+                  <figDesc>Charles Royal blazon</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:51562:2"/>
+            <head>TO HIS Moſt Excellent <hi>MAJESTIE</hi> KING CHARLES <hi>The Second, Our Moſt Gracious</hi> SOVERAIGN. The humble Addreſs of the Officers of the ſeveral Regiments, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>ITH ſuch a Joy as flows from Reverence and Love, We hum<g ref="char:EOLhyphen"/>bly preſent our ſelves before your Sacred Majeſtie: Beſides our reflection on the Common good, w<hi rend="sup">ch</hi> in this happy Change relates to our parti<g ref="char:EOLhyphen"/>cular, intends this joy, and renders it ſin<g ref="char:EOLhyphen"/>cere;
+<pb n="6" facs="tcp:51562:3"/>For we can now pleaſe our ſelves in our ſelves, while we are really perform<g ref="char:EOLhyphen"/>ing that Duty for which we were firſt raiſed. And with all Thankfulneſſe we acknow<g ref="char:EOLhyphen"/>ledge that Care your Majeſtie in your late Letter and Declaration hath expreſſed of our Neceſſary intent.</p>
+            <p>We bleſſe God to ſee that day when the ſerenity of every mans Countenance diſco<g ref="char:EOLhyphen"/>vers the tranquility of his minde, for this ſhewes your Majeſtie to be the true Soul of the People, ſince during your abſence the whole Nation was caſt into ſuch Diſtracti<g ref="char:EOLhyphen"/>ous, as we have no pleaſure to remember, but had rather turn our Thoughts and gratefull Acknowledgements to the happy Conduct of our Noble Generall, who hath thus farre lead us in our Duty to your Royall Perſon. Yet as we cannot attri<g ref="char:EOLhyphen"/>bute too much to his Merits, ſo neither can we deprive our ſelves of that Honour and Comfort which we finde in the accompliſh<g ref="char:EOLhyphen"/>ment of his juſt deſigne.</p>
+            <pb n="7" facs="tcp:51562:3"/>
+            <p>Therefore in plain and Souldier like (though humble) Termes, we ſay your Majeſtie hath made us and the Nation hap<g ref="char:EOLhyphen"/>py in your Return to this your Native Kingdome; which doubtleſſe will, nay we may ſay, hath produced a ſettlement upon the foundation of our Ancient Laws; By the due Excution of which, together with your Majeſties pious Inclinations, we truſt Libertiſme and Prophaneneſs wholly ſuppreſſed, the Proteſtant Cauſe and true profeſſors of it encouraged, to the com<g ref="char:EOLhyphen"/>fort of all your Religious and Good Peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Your Majeſtie will now have your Great Council about you, who have al<g ref="char:EOLhyphen"/>ready given proof of their Loyalty and Wiſdome both to your Majeſtie and them. We Profeſſe and Declare, That as we have not been altogether uſeleſſe in the Reſto<g ref="char:EOLhyphen"/>ration as well of your Sacred Majeſtie to your Crownes and Kingdomes, as your
+<pb n="8" facs="tcp:51562:4"/>People to their juſt Rights, ſo we ſhall in the future cheerfully ſacrifice our Lives, or whatſoever can be more dear to us in the Service of your Majeſtie againſt all Oppoſitions whatſoever, and by a ready Obedience to your Majeſties Commands, Expreſſe our ſelves,</p>
+            <closer>
+               <signed>Your Majeſtie smoſt Loyall Subjects, and obedient Servants.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:51562:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
